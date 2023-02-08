@@ -1,0 +1,5 @@
+homepage: "https://www.verfacto.com"
+documentation: "https://github.com/Verfacto/gtm-verfacto-custom-event#readme"
+versions:
+  - sha: 8cb4cff0b2ea79a12eff56250260f2d6e2d7f517
+    changeNotes: Initial release.
